@@ -1,0 +1,57 @@
+body{
+    background-color: #edf6f9;
+}
+button{
+    color: #283618;
+}
+h1{
+    font-weight: normal;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+h2{
+    text-decoration: #52b788 wavy underline;
+    font-size: 20px;
+}
+p{
+    letter-spacing: 2px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#password{
+    background-color: #ccd5ae;
+}
+
+.paragraph{
+    color: #774936;
+}
+footer a{
+   color: #ee9b00;
+}
+p > a{
+    color: #000000 ;
+}
+input + button{
+    background-color: #4ea8de;
+}
+a[href="about"]{
+    color: #7400b8;
+}
+.fake:hover{
+    text-transform: uppercase;
+}
+footer a:hover{
+    color: #8e9aaf;
+    background-color: lime;
+}
+p[class="paragraph"]::selection{
+    background-color: #8e9aaf;
+}
+input[type="password"]{
+    color: #073b4c;
+}
+a:nth-of-type(3){
+    font-family: fantasy;
+}
