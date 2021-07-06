@@ -1,6 +1,3 @@
-[toc]
-
----
 
 # Heading Level 1 
 
