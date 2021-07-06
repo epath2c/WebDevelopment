@@ -1,5 +1,5 @@
 
-# Heading Level 1(#head-one)
+[# Heading Level 1](#head-one)
 
 ### Heading Level 3  
 #### Heading Level 4 
@@ -65,7 +65,7 @@ images: ![avatar](C:/Users/hssy1/Pictures/avatar.png)
 
 backticks: `console.log('This is code!')`
 
-[anchor](#head-one)
+[# h1](#head-one)
 
 ``Use `code` in your Markdown file.``
 
